@@ -44,7 +44,7 @@ def test_fibonacci():
 
 ## Output:
 
-<img width="1277" height="270" alt="image" src="https://github.com/user-attachments/assets/2b645743-f9b6-45f8-8829-6593c444aa9c" />
+<img width="1277" height="270" alt="486362712-2b645743-f9b6-45f8-8829-6593c444aa9c" src="https://github.com/user-attachments/assets/8bd2479e-3d47-4f63-a9e3-6e43c35bd94e" />
 
 ## **Result:**
 Thus, the Pytest program for Fibonacci Series (EX14.py & TEST_EX14.py) was successfully written, executed, and tested. 
